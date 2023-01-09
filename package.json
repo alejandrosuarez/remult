@@ -58,7 +58,7 @@
     "express-jwt": "^6.0.0",
     "graphql": "^16.0.0",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^1.0.1",
+    "knex": "^2.4.0",
     "mongodb": "^4.2.1",
     "mssql": "^4.2.3",
     "password-hash": "^1.2.2",
